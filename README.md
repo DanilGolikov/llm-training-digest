@@ -16,7 +16,9 @@ Both documents are the same research, written as a technical engineering narrati
 **Golikov Daniil**
 
 - GitHub: [@DanilGolikov](https://github.com/DanilGolikov)
+- X: [@DaniilGolikoff](https://x.com/DaniilGolikoff)
 - Telegram: [@daniil_golikoff](https://t.me/daniil_golikoff)
+- Email: [daniil.golikoff@gmail.com](mailto:daniil.golikoff@gmail.com)
 
 ## License
 
