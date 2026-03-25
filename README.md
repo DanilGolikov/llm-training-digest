@@ -16,7 +16,9 @@ This repository publishes PDF digests on **applied fine-tuning of small LLMs**: 
 
 High-level stage flow (same idea as in the digest, §4 *Training flow*):
 
-![Pipeline stage flow: Dataset Validator → GPU Deployer → Training Monitor → Model Retriever → Inference Deployer → Model Evaluator](assets/pipeline_stage_flow_vertical.svg)
+<p align="center">
+  <img src="assets/pipeline_stage_flow_vertical.svg" width="400" alt="Pipeline stage flow: Dataset Validator, GPU Deployer, Training Monitor, Model Retriever, Inference Deployer, Model Evaluator" />
+</p>
 
 ## Files
 
